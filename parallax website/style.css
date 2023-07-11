@@ -1,0 +1,115 @@
+.img1{
+    background-image: url(images/image1.webp);
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    text-align: center;
+    padding-bottom: 25px;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 40px;
+    background-color: aliceblue;
+    color: black;
+    margin-top: 23%;
+    margin-left: 38%;
+    transition: 1s;
+}
+
+.text:hover{
+    background-color: black;
+    color: white;
+}
+
+.img2{
+    background-image: url(images/blackhole.jpeg);
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img3{
+    background-image: url(images/image3.webp);
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.writing1{
+    background-color: black;
+    border: 1px black solid;
+    color: white;
+    text-align: center;
+    transition: 1s;
+}
+
+.writing1:hover{
+    background-color: white;
+    color: black;
+}
+
+.writing2{
+    background-color: black;
+    border: 1px black solid;
+    color: white;
+    text-align: center;  
+    transition: 1s;
+}
+
+.writing2:hover{
+    background-color: white;
+    color: black;
+}
+
+.writing3{
+    background-color: black;
+    border: 1px black solid;
+    color: white;
+    transition: 1s;    
+}
+
+.writing3:hover{
+    background-color: white;
+    color: black;
+}
+
+.img4{
+    background-image: url(images/thankyou.webp);
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.text2{
+    position: absolute;
+    text-align: center;
+    padding-bottom: 25px;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    margin-top: 23%;
+    margin-left: 38%;
+    transition: 1s;
+}
+
+.text2:hover{
+    background-color: white;
+    color: black;
+}
